@@ -39,7 +39,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  *     are used for.
  *     
  * If you changed this file, add your name here.
- * @author Simon Alford, Manu Singhal
+ * @author Simon Alford, Manu Singhal, Bradley Nafziger
  *
  * Problems completed:
  *  1, 2, 4, 6, 7, 8, 10, 11, 12*, 13, 14, 16, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30,
@@ -99,7 +99,7 @@ public class ProjectEuler {
     
     /**
      * I made this super fast to test making changes using Eclipse and Github.
-     * I know it's really messy and inefficient. Sorry not sorry. I just hope making changes works.
+     * I know it's really messy and inefficient. Sorry, not sorry. I just hope making changes works.
      * @author Simon Alford
      */
     public static void problem3()
